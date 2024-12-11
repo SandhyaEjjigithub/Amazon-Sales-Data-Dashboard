@@ -11,7 +11,26 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 
 # Repository Structure
 
-amazon-sales-analysis/ │ ├── data/ │ ├── processed/ │ ├── notebooks/ │ ├── EDA.ipynb │ ├── tableau/ │ ├── Amazon_Sales_Dashboard.twbx │ ├── images/ │ └── dashboard_screenshot.png │ └── README.md
+# Amazon Sales Analysis
+
+## Project Directory
+
+amazon-sales-analysis/
+│
+├── data/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│
+├── tableau/
+│   ├── Amazon_Sales_Dashboard.twbx
+│
+├── images/
+│   └── dashboard_screenshot.png
+│
+└── README.md
+
 
 ### data/: 
 Contains the processed dataset.
