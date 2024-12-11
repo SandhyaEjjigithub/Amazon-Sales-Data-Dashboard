@@ -20,15 +20,15 @@ amazon-sales-analysis/
 &nbsp;&nbsp;├── processed/  
 &nbsp;&nbsp;│  
 &nbsp;&nbsp;├── notebooks/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb  
+&nbsp;&nbsp;├── EDA.ipynb  
 &nbsp;&nbsp;│  
-&nbsp;&nbsp;├── tableau/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── Amazon_Sales_Dashboard.twbx  
+&nbsp;&nbsp;├── PowerBI/  
+&nbsp;&nbsp;├── Amazon_Sales_Dashboard.twbx  
 &nbsp;&nbsp;│  
 &nbsp;&nbsp;├── images/  
-&nbsp;&nbsp;&nbsp;&nbsp;└── dashboard_screenshot.png  
+&nbsp;&nbsp;├── dashboard_screenshot.png  
 &nbsp;&nbsp;│  
-&nbsp;&nbsp;└── README.md
+&nbsp;&nbsp;├── README.md
 
 
 ### data/: 
