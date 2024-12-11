@@ -26,11 +26,14 @@ amazon-sales-analysis/
 │
 └── README.md
 
-### data/: Contains the processed dataset.
+### data/: 
+Contains the processed dataset.
 
-### notebooks/: Jupyter notebooks used for data cleaning and exploratory data analysis.
+### notebooks/: 
+Jupyter notebooks used for data cleaning and exploratory data analysis.
 
-### tableau/: Tableau workbook file containing the dashboard.
+### PowerBi/: 
+PowerBi workbook file containing the dashboard.
 
 ### images/: Screenshot of the Powerbi dashboard.
 
