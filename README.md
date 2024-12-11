@@ -13,6 +13,9 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 amazon-sales-analysis/
 │
 ├── data/
+
+
+
 │   ├── processed/
 │ 
 ├── notebooks/
