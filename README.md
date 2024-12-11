@@ -1,6 +1,6 @@
 # Amazon-Sales-Data Analysis-Dashboard
 
-This repository contains an exploratory data analysis (EDA) and visualization project of Amazon sales data. The goal is to uncover insights and present key metrics through a Tableau dashboard.
+This repository contains an exploratory data analysis (EDA) and visualization project of Amazon sales data. The goal is to uncover insights and present key metrics through a PowerBI dashboard.
 
 # Project Overview
 The project includes the following steps:
