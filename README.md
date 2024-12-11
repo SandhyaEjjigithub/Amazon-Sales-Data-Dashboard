@@ -10,24 +10,8 @@ Exploratory Data Analysis (EDA): Using Python to understand data distributions, 
 Visualization: Creating a Tableau dashboard to represent key insights and metrics.
 
 # Repository Structure
-amazon-sales-analysis/
-│
-├── data/
 
-
-
-│   ├── processed/
-│ 
-├── notebooks/
-│   ├── EDA.ipynb
-│
-├── Powerbir/
-│   ├── Amazon_Sales_Dashboard.ipbx
-|
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
+amazon-sales-analysis/ │ ├── data/ │ ├── processed/ │ ├── notebooks/ │ ├── EDA.ipynb │ ├── tableau/ │ ├── Amazon_Sales_Dashboard.twbx │ ├── images/ │ └── dashboard_screenshot.png │ └── README.md
 
 ### data/: 
 Contains the processed dataset.
