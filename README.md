@@ -14,7 +14,6 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 # Amazon Sales Analysis
 
 ## Project Directory
-
 &nbsp;&nbsp;│  
 &nbsp;&nbsp;├── data/  
 &nbsp;&nbsp;&nbsp;&nbsp;├── processed/  
