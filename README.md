@@ -11,10 +11,6 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 
 # Repository Structure
 
-# Amazon Sales Analysis
-
-## Project Directory
-
 ### data/: 
 Contains the processed dataset.
 
