@@ -17,7 +17,7 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 amazon-sales-analysis/  
 &nbsp;&nbsp;│  
 &nbsp;&nbsp;├── data/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── processed/  
+&nbsp;&nbsp;├── processed/  
 &nbsp;&nbsp;│  
 &nbsp;&nbsp;├── notebooks/  
 &nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb  
