@@ -15,17 +15,7 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 
 ## Project Directory
 
-   amazon-sales-analysis/
-├── data/
-│   └── processed/
-├── notebooks/
-│   └── EDA.ipynb
-├── PowerBI/
-│   └── Amazon_Sales_Dashboard.twbx
-├── images/
-│   └── dashboard_screenshot.png
-└── README.md
-
+amazon-sales-analysis/ ├── data/ │ └── processed/ ├── notebooks/ │ └── EDA.ipynb ├── PowerBI/ │ └── Amazon_Sales_Dashboard.twbx ├── images/ │ └── dashboard_screenshot.png └── README.md
 
 
 
