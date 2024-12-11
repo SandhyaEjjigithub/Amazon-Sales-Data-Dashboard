@@ -20,7 +20,8 @@ Jupyter notebooks used for data cleaning and exploratory data analysis.
 ### PowerBi/: 
 PowerBi workbook file containing the dashboard.
 
-### images/: Screenshot of the Powerbi dashboard.
+### images/: 
+Screenshot of the Powerbi dashboard.
 
 
 # PowerBI Dashboard
