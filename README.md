@@ -15,7 +15,7 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 
 ## Project Directory
 
-''' amazon-sales-analysis/
+   amazon-sales-analysis/
 ├── data/
 │   └── processed/
 ├── notebooks/
@@ -25,6 +25,7 @@ Visualization: Creating a Tableau dashboard to represent key insights and metric
 ├── images/
 │   └── dashboard_screenshot.png
 └── README.md
+
 
 
 
